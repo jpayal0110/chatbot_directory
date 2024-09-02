@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "Hello!",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "whats up?",
+      "answer": "Nothing waiting for you !"
+    },
+    {
+      "question": "how are you?",
+      "answer": "Im good.Wbu?"
+    },
+    {
+      "question": "whats the weather like?",
+      "answer": "its hot here."
+    },
+    {
+      "question": "yoooooo",
+      "answer": "/opt/homebrew/bin/python3 \"/Users/payaljadhav/Desktop/My PC/#StudyMaterial/Notes/Self_study/chatbot_directory/chatbot/Python_chatbot_basic/main.py\""
+    },
+    {
+      "question": "age?",
+      "answer": "my age is 1day"
+    },
+    {
+      "question": "lunch",
+      "answer": "yess"
+    }
+  ]
+}
