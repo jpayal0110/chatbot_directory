@@ -38,9 +38,3 @@ This project is an interactive Python-based chatbot that learns from user intera
 - Implement a graphical user interface (GUI) for better user interaction.
 - Expand the knowledge base with more diverse topics.
 - Improve the matching algorithm for even more accurate responses.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-```
-
-You can customize this further to suit your specific project details.
